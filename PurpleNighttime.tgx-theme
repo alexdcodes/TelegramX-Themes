@@ -1,0 +1,26 @@
+!
+name: "Night Purple Theme"
+time: 1716788040
+author: "Alex Diker"
+@
+parentTheme: 2
+#
+badge, bubbleOut_chatVerticalLine, bubbleOut_file, bubbleOut_inlineIcon, bubbleOut_inlineOutline, bubbleOut_inlineText, bubbleOut_textLink, bubbleOut_waveformInactive, chatListAction, chatListIcon, chatListMute, chatListVerify, chatSendButton, checkActive, circleButtonNewChat, circleButtonNewGroup, controlActive, file, headerBarCallIncoming, headerButton, headerIcon, icon, inlineOutline, inputActive, introSectionActive, online, passcodeIcon, placeholder, playerButton, playerButtonActive, playerCoverIcon, profileSectionActive, progress, seekReady, sliderActive, statusBarLegacyContent, ticks, ticksRead, togglerInactive, togglerPositive, unread, waveformActive: #6F6ACB
+badgeMuted: #C0BED7
+circleButtonRegular, circleButtonTheme, iconActive: #5751C9
+fillingPositive: #290B5D
+headerBackground: #312E68
+headerBarCallActive: #200C46
+iconLight: #618D77
+notification: #4B3BAE
+notificationPlayer: #5038B5
+passcode: #312E64
+promo: #7D77ED
+seekDone: #5A55B6
+textLink: #6BD1D6
+textNeutral: #6B4CCD
+textSearchQueryHighlight: #8258DE
+textSelectionHighlight: #3536C855
+togglerActive: #645CF5
+unreadText: #E2E2EE
+waveformInactive: #565661
