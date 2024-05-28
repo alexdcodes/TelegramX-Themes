@@ -1,0 +1,23 @@
+!
+name: "Navy Nite"
+time: 1716779100
+author: "Alex Diker"
+@
+parentTheme: 10
+#
+attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, avatarArchive, avatarReplies, avatarReplies_big, avatarSavedMessages, avatarSavedMessages_big, chatListAction, checkActive, controlActive, controlContent, controlInactive, fillingPressed, headerBackground, headerButton, icon, iconActive, inlineOutline, inputActive, passcode, profileSectionActive, progress, promo, separator, sliderActive, textSelectionHighlight, themeClassic, togglerInactiveBackground, togglerPositiveBackground, togglerPositiveContent, waveformActive: #3D387F
+bubbleOut_messageAuthorPsa, bubbleOut_waveformActive: #62D970
+filling: #111131
+fillingPositive, textNeutral, togglerActive, togglerPositive: #61E09D
+headerBarCallActive: #66F9AC
+headerLightBackground: #DDD
+headerText: #F0F0FC
+notification: #22223C
+placeholder: #2A258BAE
+previewBackground: #070
+profileSectionActiveContent: #6839B9
+textLink: #5ED596
+textSearchQueryHighlight: #1FE5B3
+themeBlue: #4D3666
+togglerActiveBackground: #473BDD
+unread: #3F3868
